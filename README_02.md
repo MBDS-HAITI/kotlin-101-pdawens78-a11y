@@ -28,6 +28,7 @@ Return the final list.
 
 **Function:** `ex3 filter EvenNumbers`
 
+
 Create a list of numbers from **1 to 10**.  
 Filter only the even numbers and return the result.
 ---
